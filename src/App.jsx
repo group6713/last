@@ -1,9 +1,10 @@
 import React from 'react'
+import { Button } from 'flowbite-react'
 
 const App = () => {
   return (
     <div>
-      salom
+      <Button color="blue">Blue</Button>
     </div>
   )
 }
